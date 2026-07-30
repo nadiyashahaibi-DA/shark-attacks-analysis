@@ -1,0 +1,7 @@
+# requirements.txt
+# Add Python package dependencies below
+pandas
+numpy
+xlrd
+matplotlib
+seaborn
