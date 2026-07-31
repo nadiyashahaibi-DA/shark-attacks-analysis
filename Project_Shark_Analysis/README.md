@@ -15,9 +15,9 @@ Research team at OKinsurance proposing a water-sport risk insurance product for 
 
 The analysis was guided by three core hypotheses:
 
-H1: Risk is concentrated in a small number of countries.
-H2: Risk varies significantly by month/season.
-H3: Unprovoked attacks dominate — risk is environmental, not behavioral.
+- H1: Risk is concentrated in a small number of countries.
+- H2: Risk varies significantly by month/season.
+- H3: Unprovoked attacks dominate — risk is environmental, not behavioral.
 
 All three hypotheses were supported by the data.
 
